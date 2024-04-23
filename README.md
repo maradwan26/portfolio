@@ -21,19 +21,27 @@ Honours Specialization in Computer Science, Western University (2025)
 - Demonstrated strong communication and interpersonal skills to establish rapport and motivate students towards achieving academic goals.
 
 ## Projects
+**Formula Fast (Java, JavaFX, JIRA, Confluence)**
+- Developed an educational game aimed at enhancing arithmetic skills for elementary students by seamlessly integrating interactive gameplay with educational content, significantly boosting learning engagement by combining education with entertainment through engaging challenges.
+- Utilized JavaFX to create a highly interactive GUI by implementing features such as individual user account creation, login functionality, progress tracking with 'instructor mode' capabilities, and a leaderboard system, resulting in an engaging and intuitive user experience
+- Led the project's planning, development, and deployment phases, employing Agile methodologies with regular sprints and SCRUM meetings, ensuring the project's timely delivery.
+- Developed detailed and comprehensive requirements, design, and testing documentation using Confluence and managed task allocation and management using JIRA.
+
 **Disney+ Clone (ReactJS, Firebase, React Redux)**
 - Implemented a login page that allows the user to log in with their Google account using Firebase and stores the user's info using React Redux
 - Stored data related to each movie/show in Cloud-FireStore which was then extracted and utilized via React and React Redux
 - Created a mobile-friendly display using media queries in styled-components
 - Added animations when the user hovers over movie categories as well as a carousel that auto-swipes-displaying various thumbnails for movies/shows using styled-components
 
+**Chess Game (Java, JavaFX)**
+- Developed a 2-player chess game in Java, showcasing proficiency in Java programming, algorithm implementation, and the utilization of the JavaFX library
+- Implemented all standard chess rules, including game board, piece movements, captures, and turn conditions
+- Incorporated a GUI for intuitive and interactive gameplay while ensuring proper player feedback and validation for moves by traversing an 8x8 game board grid and iterating through all possible moves at every turn
+
 **Snake Game (Python, PyGame)**
 - Developed a snake game using object oriented design in Python using the Pygame library
 - Implemented 2-D direction vectors to traverse the snake around a grid map
 - Utilized enumeration and the variation between each snake's block's direction vector to faithfully showcase the snake's graphics
 
-**Chess Game (Java, JavaFX)**
-- Developed a 2-player chess game in Java, showcasing proficiency in Java programming, algorithm implementation, and the utilization of the JavaFX library
-- Implemented all standard chess rules, including game board, piece movements, captures, and turn conditions
-- Incorporated a GUI for intuitive and interactive gameplay while ensuring proper player feedback and validation for moves by traversing an 8x8 game board grid and iterating through all possible moves at every turn
+
 
