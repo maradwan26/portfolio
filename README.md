@@ -5,7 +5,7 @@
 **Frameworks, Libraries, and Tools:** Docker, Kubernetes, AWS, React, MongoDB, Git, OpenAI, Flask, Watson AI (Speech-to-Text), Whisper,PyQt5, Llama3, Bootstrap, WordPress, Figma
 
 ## Education
-Honours Specialization in Computer Science, Western University (2025)
+Honours Specialization in Computer Science, Western University (2026)
 
 ## Work Experience
 **Web Developer @ Webstraw (Oct. 2023 - Current)**
