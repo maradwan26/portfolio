@@ -38,10 +38,10 @@ recommendations. Utilized data-driven insights to optimize content and enhance t
 - Built with Flask, incorporating PyPDF2 and ReportLab for dynamic PDF manipulation and generation. Enhanced the front-end with HTML/CSS and JavaScript, ensuring a responsive and user-friendly interface.
 
 **Formula Fast (Java, JavaFX, JIRA, Confluence)**
-- Developed an educational game aimed at enhancing arithmetic skills for elementary students by seamlessly integrating interactive gameplay with educational content, significantly boosting learning engagement by combining education with entertainment through engaging challenges.
+- Developed an educational game to enhance arithmetic skills for elementary students, combining interactive gameplay with educational content for increased engagement.
 - Utilized JavaFX to create a highly interactive GUI by implementing features such as individual user account creation, login functionality, progress tracking with 'instructor mode' capabilities, and a leaderboard system, resulting in an engaging and intuitive user experience
-- Led the project's planning, development, and deployment phases, employing Agile methodologies with regular sprints and SCRUM meetings, ensuring the project's timely delivery.
-- Developed detailed and comprehensive requirements, design, and testing documentation using Confluence and managed task allocation and management using JIRA.
+- Led the project's planning, development, and deployment phases, employing Agile methodologies with regular sprints and scrum meetings for timely delivery.
+- Documented requirements, design, and testing in Confluence and managed tasks with JIRA.
 
 **Disney+ Clone (ReactJS, Firebase, React Redux)**
 - Implemented a login page that allows the user to log in with their Google account using Firebase and stores the user's info using React Redux
