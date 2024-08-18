@@ -2,6 +2,7 @@
 
 ## Skills
 **Languages:** Python, Java, C, C++, JavaScript, HTML, CSS, SQL, Bash Scripting
+
 **Frameworks, Libraries, and Tools:** Docker, Kubernetes, AWS, React, MongoDB, Git, OpenAI, Flask, Watson AI (Speech-to-Text), Whisper,PyQt5, Llama3, Bootstrap, WordPress, Figma
 
 ## Education
