@@ -2,17 +2,18 @@
 
 ## Skills
 **Languages:** Python, Java, C, C++, JavaScript, HTML, CSS, SQL, Bash Scripting
-**Frameworks, Libraries, and Tools:** Docker, Kubernetes, AWS, React, MongoDB, Git, Bootstrap, WordPress, Figma
+**Frameworks, Libraries, and Tools:** Docker, Kubernetes, AWS, React, MongoDB, Git, OpenAI, Flask, Watson AI (Speech-to-Text), Whisper,PyQt5, Llama3, Bootstrap, WordPress, Figma
 
 ## Education
 Honours Specialization in Computer Science, Western University (2025)
 
 ## Work Experience
-**Technical Director @ Webstraw (Oct. 2023 - Current)**
-- Consistently updated and enhanced a university student resource website ensuring a user-friendly interface and streamlined access to vital information.
-- Collaborated closely with cross-functional teams to design, develop, and launch new website pages, effectively addressing diverse student needs and preferences.
-- Expertly integrated Google Analytics into the website, enabling robust data analytics and insights into user behaviour, page performance, and engagement metrics that can be utilized as feedback to continuously refine website features, contributing to a marked increase in satisfaction and engagement.
-- Conducted thorough monthly analyses of website analytics, presenting key findings and strategic recommendations to the team to optimize content and user experience.
+**Web Developer @ Webstraw (Oct. 2023 - Current)**
+- Led a team in the consistent enhancement of a university student resource website, driving a user-friendly interface and seamless access to critical information for 1200+ users.
+- Directed cross-functional collaboration to design, develop, and launch new website pages and innovative projects, successfully addressing diverse student needs and preferences while fostering effective teamwork.
+- Integrated Google Analytics to deliver in-depth data analytics and insights into user behaviour, page performance, and engagement metrics, using this feedback to refine website features and significantly improve user satisfaction and engagement.
+- Conducted bi-weekly website analytics data reviews, leading scrum meetings to present actionable findings and strategic
+recommendations. Utilized data-driven insights to optimize content and enhance the user experience, ensuring continuous improvement and alignment with team objectives.
 
 **Mathematics & Computer Science Tutor @ Tutor Doctor (Sept. 2023 - Current)**
 - Engaged in one-on-one tutoring sessions with students, providing personalized academic support and enrichment in mathematics and computer science courses.
@@ -21,6 +22,21 @@ Honours Specialization in Computer Science, Western University (2025)
 - Demonstrated strong communication and interpersonal skills to establish rapport and motivate students towards achieving academic goals.
 
 ## Projects
+**AI-Powered Multi-Modal Voice Assistant (Python, Groq Llama3, Google Generative AI, OpenAI, Faster Whisper)**
+- Developed an advanced multi-modal AI voice assistant that integrates real-time speech recognition with contextual image processing.
+- Designed and implemented custom API integrations to handle voice prompts and visual inputs in real-time, enhancing the system’s ability to dynamically process and respond to spoken commands, clipboard data, screenshots, and webcam captures, thereby significantly expanding the assistant's functionality and interaction capabilities.
+- Implemented a robust scheduling system for handling alarms and reminders via voice commands, incorporating seamless speech synthesisfor real-time user notifications.
+
+**Live Speech-to-Text Transcriber with Sentiment Analysis (Python, Watson AI, PyQt5, OpenAI)**
+- Developed a real-time speech-to-text UI application using IBM Watson’s Speech-to-Text API, integrated with OpenAI’s GPT-3.5-turbo for sentiment analysis, facilitating live auto-captioning for enhanced accessibility and real-time communication support.
+- Implemented audio streaming and WebSocket communication to transcribe spoken input in real-time, utilizing PyAudio for audio capture and WebSocket for streaming data.
+- Built advanced real-time sentiment analysis delivering immediate insights into conversational tone and emotional nuances, significantly enhancing users' understanding of emotional cues and social dynamics.
+
+**OCR PDF Translator (Python, HTML, CSS, JavaScript, Flask, OpenAI, PyPDF2, OCR Space)**
+- Designed and developed a full-stack web application that integrates advanced APIs for Optical Character Recognition (OCR) and AI-powered translation, providing users with an intuitive platform for processing and translating multi-language PDF documents.
+- Integrated OCR Space API for accurate text extraction, supporting 20+ languages, and OpenAI’s GPT-3.5 Turbo and GPT-4 models for highly accurate and context-sensitive translations.
+- Built with Flask, incorporating PyPDF2 and ReportLab for dynamic PDF manipulation and generation. Enhanced the front-end with HTML/CSS and JavaScript, ensuring a responsive and user-friendly interface.
+
 **Formula Fast (Java, JavaFX, JIRA, Confluence)**
 - Developed an educational game aimed at enhancing arithmetic skills for elementary students by seamlessly integrating interactive gameplay with educational content, significantly boosting learning engagement by combining education with entertainment through engaging challenges.
 - Utilized JavaFX to create a highly interactive GUI by implementing features such as individual user account creation, login functionality, progress tracking with 'instructor mode' capabilities, and a leaderboard system, resulting in an engaging and intuitive user experience
