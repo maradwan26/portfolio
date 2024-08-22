@@ -11,6 +11,7 @@ Honours Specialization in Computer Science (2026)
 
 ## Work Experience
 **Web Developer @ Webstraw (Oct. 2023 - Current)**
+TOOLS: REACT, HTML, CSS, DJANGO, WORDPRESS, NOTION, FIGMA, GOOGLE ANALYTICS
 - Led a team in the consistent enhancement of a university student resource website, driving a user-friendly interface and seamless access to critical information for 1200+ users.
 - Directed cross-functional collaboration to design, develop, and launch new website pages and innovative projects, successfully addressing diverse student needs and preferences while fostering effective teamwork.
 - Integrated Google Analytics to deliver in-depth data analytics and insights into user behaviour, page performance, and engagement metrics, using this feedback to refine website features and significantly improve user satisfaction and engagement.
@@ -34,18 +35,18 @@ recommendations. Utilized data-driven insights to optimize content and enhance t
 - Implemented audio streaming and WebSocket communication to transcribe spoken input in real-time, utilizing PyAudio for audio capture and WebSocket for streaming data.
 - Built advanced real-time sentiment analysis delivering immediate insights into conversational tone and emotional nuances, significantly enhancing users' understanding of emotional cues and social dynamics.
 
-**OCR PDF Translator (Python, HTML, CSS, JavaScript, Flask, OpenAI, PyPDF2, OCR Space)**
+**OCR PDF Translator (Python, HTML, CSS, JavaScript, Flask, OpenAI, PyPDF2, OCR.space, ReportLab)**
 - Designed and developed a full-stack web application that integrates advanced APIs for Optical Character Recognition (OCR) and AI-powered translation, providing users with an intuitive platform for processing and translating multi-language PDF documents.
 - Integrated OCR Space API for accurate text extraction, supporting 20+ languages, and OpenAI’s GPT-3.5 Turbo and GPT-4 models for highly accurate and context-sensitive translations.
 - Built with Flask, incorporating PyPDF2 and ReportLab for dynamic PDF manipulation and generation. Enhanced the front-end with HTML/CSS and JavaScript, ensuring a responsive and user-friendly interface.
 
-**Formula Fast (Java, JavaFX, JIRA, Confluence)**
+**Formula Fast (Java, JavaFX, Jira, Confluence)**
 - Developed an educational game to enhance arithmetic skills for elementary students, combining interactive gameplay with educational content for increased engagement.
 - Utilized JavaFX to create a highly interactive GUI by implementing features such as individual user account creation, login functionality, progress tracking with 'instructor mode' capabilities, and a leaderboard system, resulting in an engaging and intuitive user experience
 - Led the project's planning, development, and deployment phases, employing Agile methodologies with regular sprints and scrum meetings for timely delivery.
 - Documented requirements, design, and testing in Confluence and managed tasks with JIRA.
 
-**Disney+ Clone (ReactJS, Firebase, React Redux)**
+**Disney+ Clone (ReactJS, Firebase, React Redux, Cloud Firestore)**
 - Implemented a login page that allows the user to log in with their Google account using Firebase and stores the user's info using React Redux
 - Stored data related to each movie/show in Cloud-FireStore which was then extracted and utilized via React and React Redux
 - Created a mobile-friendly display using media queries in styled-components
@@ -56,7 +57,7 @@ recommendations. Utilized data-driven insights to optimize content and enhance t
 - Implemented all standard chess rules, including game board, piece movements, captures, and turn conditions
 - Incorporated a GUI for intuitive and interactive gameplay while ensuring proper player feedback and validation for moves by traversing an 8x8 game board grid and iterating through all possible moves at every turn
 
-**Snake Game (Python, PyGame)**
+**Snake Game (Python, Pygame)**
 - Developed a snake game using object oriented design in Python using the Pygame library
 - Implemented 2-D direction vectors to traverse the snake around a grid map
 - Utilized enumeration and the variation between each snake's block's direction vector to faithfully showcase the snake's graphics
