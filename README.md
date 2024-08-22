@@ -11,6 +11,7 @@ Honours Specialization in Computer Science (2026)
 
 ## Work Experience
 **Web Developer @ Webstraw (Oct. 2023 - Current)**
+
 TOOLS: REACT, HTML, CSS, DJANGO, WORDPRESS, NOTION, FIGMA, GOOGLE ANALYTICS
 - Led a team in the consistent enhancement of a university student resource website, driving a user-friendly interface and seamless access to critical information for 1200+ users.
 - Directed cross-functional collaboration to design, develop, and launch new website pages and innovative projects, successfully addressing diverse student needs and preferences while fostering effective teamwork.
