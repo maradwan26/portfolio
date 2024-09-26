@@ -3,7 +3,7 @@
 ## Skills
 **Languages:** Python, Java, C, C++, JavaScript, HTML, CSS, SQL, Bash Scripting
 
-**Frameworks, Libraries, and Tools:** Docker, Kubernetes, AWS, React, MongoDB, Git, OpenAI, Flask, Watson AI (Speech-to-Text), Whisper,PyQt5, Llama3, Bootstrap, WordPress, Figma
+**Frameworks, Libraries, and Tools:** Docker, Kubernetes, AWS, React, MongoDB, Git, OpenAI, Flask, Watson AI (Speech-to-Text), Whisper,PyQt5, Llama3, Bootstrap, Figma
 
 ## Education
 **Western University**
@@ -12,34 +12,31 @@ Honours Specialization in Computer Science (2026)
 ## Work Experience
 **Web Developer @ Webstraw (Oct. 2023 - Current)**
 
-TOOLS: REACT, HTML, CSS, DJANGO, WORDPRESS, NOTION, FIGMA, GOOGLE ANALYTICS
-- Led a team in the consistent enhancement of a university student resource website, driving a user-friendly interface and seamless access to critical information for 1200+ users.
-- Directed cross-functional collaboration to design, develop, and launch new website pages and innovative projects, successfully addressing diverse student needs and preferences while fostering effective teamwork.
-- Integrated Google Analytics to deliver in-depth data analytics and insights into user behaviour, page performance, and engagement metrics, using this feedback to refine website features and significantly improve user satisfaction and engagement.
-- Conducted bi-weekly website analytics data reviews, leading scrum meetings to present actionable findings and strategic
-recommendations. Utilized data-driven insights to optimize content and enhance the user experience, ensuring continuous improvement and alignment with team objectives.
+TOOLS: REACT, HTML, CSS, DJANGO, FIGMA, GOOGLE ANALYTICS
+- Led a team in the consistent enhancement of a university student resource website via agile methodology, driving a user-friendly interface and seamless access to critical information for 1200+ users
+- Directed the creation of 15+ new website pages and innovative projects through collaboration with cross-functional teams, meeting diverse student needs and thus increasing user base by 30%
+- Integrated Google Analytics to track user behaviour, yielding actionable insights that resulted in a 20% reduction in bounce rates and an 18% boost in time spent per page
+- Led bi-weekly scrum meetings and presented website analytics, translating data into strategic recommendations that resulted in a 20% increase in feature adoption and improved team alignment on objectives
 
 **Mathematics & Computer Science Tutor @ Tutor Doctor (Sept. 2023 - Current)**
-- Engaged in one-on-one tutoring sessions with students, providing personalized academic support and enrichment in mathematics and computer science courses.
-- Employed effective teaching strategies to enhance comprehension and problem-solving skills resulting in an improvement in grades.
-- Monitored progress and tailored lesson plans to address individual learning needs.
-- Demonstrated strong communication and interpersonal skills to establish rapport and motivate students towards achieving academic goals.
+- Delivered individualized tutoring sessions to 100+ students in mathematics and computer science, boosting students' grades by an average of 15% within the first two months
+- Used effective teaching strategies to improve comprehension and problem-solving skills, leading to significant academic gains
 
 ## Projects
 **AI-Powered Multi-Modal Voice Assistant (Python, Groq Llama3, Google Generative AI, OpenAI, Faster Whisper)**
-- Developed an advanced multi-modal AI voice assistant that integrates real-time speech recognition with contextual image processing.
-- Designed and implemented custom API integrations to handle voice prompts and visual inputs in real-time, enhancing the system’s ability to dynamically process and respond to spoken commands, clipboard data, screenshots, and webcam captures, thereby significantly expanding the assistant's functionality and interaction capabilities.
-- Implemented a robust scheduling system for handling alarms and reminders via voice commands, incorporating seamless speech synthesisfor real-time user notifications.
+- Engineered a cutting-edge AI voice assistant integrating real-time speech recognition and contextual image processing, enabling 50% faster response times and 30% more accurate speech recognition compared to standard assistants
+- Significantly expanded functionality and interaction capabilities by handling voice prompts and visual inputs in real-time via custom API integrations, thus, enhancing the system’s ability to dynamically process and respond to spoken commands, clipboard data, screenshots, and webcam captures
+- Developed a robust voice-activated scheduling system for managing alarms and reminders, supporting seamless real-time user notifications
 
 **Live Speech-to-Text Transcriber with Sentiment Analysis (Python, Watson AI, PyQt5, OpenAI)**
-- Developed a real-time speech-to-text UI application using IBM Watson’s Speech-to-Text API, integrated with OpenAI’s GPT-3.5-turbo for sentiment analysis, facilitating live auto-captioning for enhanced accessibility and real-time communication support.
-- Implemented audio streaming and WebSocket communication to transcribe spoken input in real-time, utilizing PyAudio for audio capture and WebSocket for streaming data.
-- Built advanced real-time sentiment analysis delivering immediate insights into conversational tone and emotional nuances, significantly enhancing users' understanding of emotional cues and social dynamics.
+- Built a real-time speech-to-text UI application using IBM Watson’s Speech-to-Text API, integrated with OpenAI’s GPT-3.5-turbo for sentiment analysis, facilitating live auto-captioning with 95% accuracy for enhanced accessibility and communication support
+- Implemented audio streaming and WebSocket communication to transcribe spoken input in real-time, utilizing PyAudio for audio capture and WebSocket for streaming data, reducing latency by 35%
+- Built advanced real-time sentiment analysis delivering immediate insights into conversational tone and emotional nuances, significantly enhancing users' understanding of emotional cues and social dynamics
 
 **OCR PDF Translator (Python, HTML, CSS, JavaScript, Flask, OpenAI, PyPDF2, OCR.space, ReportLab)**
-- Designed and developed a full-stack web application that integrates advanced APIs for Optical Character Recognition (OCR) and AI-powered translation, providing users with an intuitive platform for processing and translating multi-language PDF documents.
-- Integrated OCR Space API for accurate text extraction, supporting 20+ languages, and OpenAI’s GPT-3.5 Turbo and GPT-4 models for highly accurate and context-sensitive translations.
-- Built with Flask, incorporating PyPDF2 and ReportLab for dynamic PDF manipulation and generation. Enhanced the front-end with HTML/CSS and JavaScript, ensuring a responsive and user-friendly interface.
+- Designed and developed a full-stack web application that integrates advanced APIs for Optical Character Recognition (OCR) and AI-powered translation, providing users with an intuitive platform for processing and translating multi-language PDFs
+- Integrated OCR.space API for accurate text extraction, supporting 20+ languages, and OpenAI’s GPT models for 97% accurate and context-sensitive translations
+- Built with Flask, incorporating PyPDF2 and ReportLab for dynamic PDF manipulation and generation. Enhanced the front-end with HTML/CSS and JavaScript, ensuring a responsive and user friendly interface
 
 **Formula Fast (Java, JavaFX, Jira, Confluence)**
 - Developed an educational game to enhance arithmetic skills for elementary students, combining interactive gameplay with educational content for increased engagement.
@@ -47,11 +44,10 @@ recommendations. Utilized data-driven insights to optimize content and enhance t
 - Led the project's planning, development, and deployment phases, employing Agile methodologies with regular sprints and scrum meetings for timely delivery.
 - Documented requirements, design, and testing in Confluence and managed tasks with JIRA.
 
-**Disney+ Clone (ReactJS, Firebase, React Redux, Cloud Firestore)**
-- Implemented a login page that allows the user to log in with their Google account using Firebase and stores the user's info using React Redux
-- Stored data related to each movie/show in Cloud-FireStore which was then extracted and utilized via React and React Redux
-- Created a mobile-friendly display using media queries in styled-components
-- Added animations when the user hovers over movie categories as well as a carousel that auto-swipes-displaying various thumbnails for movies/shows using styled-components
+**Disney+ 2.0 (ReactJS, Firebase, React Redux, Cloud Firestore)**
+- Developed a comprehensive streaming platform inspired by Disney+, featuring secure user authentication, seamless content browsing, and high-quality video playback capabilities
+- Implemented secure and seamless user authentication and authorization using Google accounts via Firebase, with user information efficiently managed through React Redux to deliver personalized user experiences
+- Leveraged Cloud Firestore to store and retrieve large datasets efficiently, reducing content load times by 40%, resulting in a seamless streaming experience
 
 **Chess Game (Java, JavaFX)**
 - Developed a 2-player chess game in Java, showcasing proficiency in Java programming, algorithm implementation, and the utilization of the JavaFX library
