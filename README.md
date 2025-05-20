@@ -11,7 +11,6 @@ Honours Specialization in Computer Science (2026)
 
 ## Work Experience
 **Front-End Developer Intern @ IBM | Carbon Design System (May 2025 - August 2026)**
-TOOLS: REACT, WEB COMPONENTS, TYPESCRIPT, SCSS
 
 **Web Developer @ Webstraw (Oct. 2023 - Apr. 2025)**
 
