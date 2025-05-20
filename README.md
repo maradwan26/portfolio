@@ -1,16 +1,19 @@
 # Computer Science Student @ Western University
 
 ## Skills
-**Languages:** Python, Java, C, C++, JavaScript, HTML, CSS, SQL, Bash Scripting
+**Languages:** Python, Java, C, C++, JavaScript, TypeScript, HTML, CSS, SCSS, SQL, Bash Scripting
 
-**Frameworks, Libraries, and Tools:** Docker, Kubernetes, AWS, React, MongoDB, Git, OpenAI, Flask, Watson AI (Speech-to-Text), Whisper,PyQt5, Llama3, Bootstrap, Figma
+**Frameworks, Libraries, and Tools:** React, Web Components, Docker, Kubernetes, AWS, MongoDB, Git, OpenAI, Flask, Watson AI (Speech-to-Text), Whisper,PyQt5, Llama3, Bootstrap, Figma
 
 ## Education
 **Western University**
 Honours Specialization in Computer Science (2026)
 
 ## Work Experience
-**Web Developer @ Webstraw (Oct. 2023 - Current)**
+**Front-End Developer Intern @ IBM | Carbon Design System (May 2025 - August 2026)**
+TOOLS: REACT, WEB COMPONENTS, TYPESCRIPT, SCSS
+
+**Web Developer @ Webstraw (Oct. 2023 - Apr. 2025)**
 
 TOOLS: REACT, HTML, CSS, DJANGO, FIGMA, GOOGLE ANALYTICS
 - Led a team in the consistent enhancement of a university student resource website via agile methodology, driving a user-friendly interface and seamless access to critical information for 1200+ users
